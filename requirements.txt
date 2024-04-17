@@ -1,0 +1,10 @@
+fastapi
+sqlalchemy
+uvicorn
+pydantic
+passlib
+bcrypt
+python-jose
+python-multipart
+ 
+ #pip3 install -r requirements.txt
